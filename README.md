@@ -66,10 +66,10 @@ Educational resources to enhance financial literacy:
 ## Contact
 - Team:
    - Leela Prasad G
-   - Rakesh T
    - Durga Rama Krishna K
-   - Renu Sri
    - Ganesh D
+   - Renu Sri
    - Vennela V
    - Vaishnavi R
+   - Rakesh T
 - Email: Rakeshtirlangi21@gmail.com
