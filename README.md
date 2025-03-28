@@ -6,15 +6,24 @@ Finance AI is an innovative application designed to demystify financial statemen
 ## Features
 
 ### 1. Document Upload & Deep Dive Analysis
-![Document Upload Placeholder](/images/document-upload.png)
+![Document Upload Placeholder](/assets/hero.png)
 
 Comprehensive financial statement analysis covering three critical sections:
 - **Income Statement**: Detailed breakdown of revenue, expenses, and profitability
+ ![Document Upload Placeholder](/assets/income.png)
+ ![Document Upload Placeholder](/assets/income-2.png)
 - **Balance Sheet**: Comprehensive view of assets, liabilities, and equity
+  ![Document Upload Placeholder](/assets/balance.png)
+  ![Document Upload Placeholder](/assets/balance2.png)
 - **Cash Flow Statement**: Insights into cash movements and financial liquidity
+ ![Document Upload Placeholder](/assets/cash.png)
+ ![Document Upload Placeholder](/assets/cash2.png)
 
 ### 2. Visual Analytics
-![Visual Analytics Dashboard](/images/visual-analytics.png)
+![Visual Analytics Dashboard](/images/data.png)
+![Visual Analytics Dashboard](/images/line-graph.png)
+![Visual Analytics Dashboard](/images/linegraph-2.png)
+
 
 Powerful visualization tools to understand financial performance:
 - Interactive graphs and charts showing company growth trends
