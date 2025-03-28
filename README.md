@@ -5,7 +5,8 @@ Finance AI is an innovative application designed to demystify financial statemen
 
 ## Features
 
-### 1. Document Upload & Deep Dive Analysis
+### 1. Document Upload & Deep Dive Analysis & Overview Analytics
+![Visual Analytics Dashboard](/assets/data.png)
 ![Document Upload Placeholder](/assets/hero.png)
 
 Comprehensive financial statement analysis covering three critical sections:
@@ -20,10 +21,10 @@ Comprehensive financial statement analysis covering three critical sections:
  ![Document Upload Placeholder](/assets/cash2.png)
 
 ### 2. Visual Analytics
-![Visual Analytics Dashboard](/images/data.png)
-![Visual Analytics Dashboard](/images/line-graph.png)
-![Visual Analytics Dashboard](/images/linegraph-2.png)
 
+![Visual Analytics Dashboard](/assets/line-graph.png)
+![Visual Analytics Dashboard](/assets/linegraph-2.png)
+![Visual Analytics Dashboard](/assets/piechart.png)
 
 Powerful visualization tools to understand financial performance:
 - Interactive graphs and charts showing company growth trends
@@ -39,7 +40,7 @@ Powerful visualization tools to understand financial performance:
 - Personalized insights and explanations
 
 ### 3. Financial Learning Center
-![Learning Center](/images/learning-center.png)
+![Learning Center](/assets/learning.png)
 
 Educational resources to enhance financial literacy:
 - Complex financial concepts explained in simple language
@@ -53,28 +54,6 @@ Educational resources to enhance financial literacy:
 - Node.js
 - Python (for FastAPI)
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/finance-ai.git
-
-# Install frontend dependencies
-cd frontend
-npm install
-
-# Install backend dependencies
-cd ../backend
-npm install  # for Node.js backend
-pip install -r requirements.txt  # for FastAPI
-
-# Run the application
-# Start frontend
-npm start
-
-# Start backend
-npm run server  # for Node.js
-python main.py  # for FastAPI
-```
 
 ## Technology Stack
 - **Frontend**: JavaScript
@@ -86,6 +65,5 @@ python main.py  # for FastAPI
   - Cache Augmented Generation
 
 ## Contact
-- Project Lead: [Name]
-- Email: [Contact Email]
-- Project Link: [Repository Link]
+- Project Lead: Rakesh T
+- Email: Rakeshtirlangi21@gmail.com
