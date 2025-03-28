@@ -208,6 +208,38 @@ interface NarrativeData {
   };
 }
 
+import React, { useState, useCallback, useEffect } from 'react';
+import { Card, CardHeader, CardTitle, CardContent } from 'src/components/ui/card';
+import { Button } from 'src/components/ui/button';
+
+// TypeScript interfaces matching the backend response structure
+interface FinancialSection {
+  title: string;
+  key_insights: string[];
+  story: string;
+}
+
+interface NarrativeData {
+  company_overview: {
+    name: string;
+    storytelling_approach: string;
+  };
+  financial_story_sections: {
+    income_statement_narrative?: FinancialSection;
+    balance_sheet_narrative?: FinancialSection;
+    cash_flow_narrative?: FinancialSection;
+  };
+  comprehensive_narrative: {
+    title: string;
+    story: string;
+  };
+  key_performance_indicators: {
+    revenue_growth: string;
+    net_income_growth: string;
+    asset_growth: string;
+  };
+}
+
 const FinancialNarrativeDashboard: React.FC = () => {
   const [narrativeData, setNarrativeData] = useState<NarrativeData | null>(null);
   const [selectedSection, setSelectedSection] = useState<'income' | 'balance' | 'cashFlow'>('income');
@@ -224,7 +256,6 @@ const FinancialNarrativeDashboard: React.FC = () => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          // You might need to pass specific financial statement content here
           fileContent: '' // Modify as per your backend requirements
         }),
       });
