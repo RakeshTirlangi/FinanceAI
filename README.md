@@ -64,5 +64,12 @@ Educational resources to enhance financial literacy:
   - Cache Augmented Generation
 
 ## Contact
-- Project Lead: Rakesh T
+- Team:
+   - Leela Prasad G
+   - Rakesh T
+   - Durga Rama Krishna K
+   - Renu Sri
+   - Ganesh D
+   - Vennela V
+   - Vaishnavi R
 - Email: Rakeshtirlangi21@gmail.com
