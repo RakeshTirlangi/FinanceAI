@@ -33,7 +33,6 @@ Powerful visualization tools to understand financial performance:
 - AI-powered recommendations
 
 #### Integrated Chatbot
-![Chatbot Interface](/images/chatbot.png)
 
 - Interactive AI assistant
 - Real-time financial data interpretation
