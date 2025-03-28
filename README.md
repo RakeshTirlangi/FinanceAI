@@ -1,60 +1,75 @@
-# Finance AI: Simplifying Financial Analysis
+# Finance AI: Financial Understanding Made Simple
 
 ## Overview
-Finance AI is an innovative application designed to demystify financial statements and provide intuitive insights for businesses and investors. Our platform transforms complex financial data into accessible, actionable intelligence.
+Cracking the code of financial statements? We've got your back. Finance AI breaks down complex numbers into simple insights that actually make sense. 📊
 
-## Features
+## The Problem We Solve
+Financial statements can be overwhelming. Filled with complex numbers, technical terms, and intricate calculations, they often leave people feeling confused and intimidated. Finance AI bridges this gap, making financial information accessible to everyone.
 
-### 1. Document Upload & Deep Dive Analysis & Overview Analytics
+## Demo
+![Finance AI Demo](/assets/demo_short.gif)
+
+Watch how Finance AI turns complex financial data into easy-to-understand insights!
+
+## Features Designed for Non-Financial Experts
+
+### 1. Document Upload & Simplified Financial Analysis
 ![Visual Analytics Dashboard](/assets/data.png)
 ![Document Upload Placeholder](/assets/hero.png)
 
-Comprehensive financial statement analysis covering three critical sections:
-- **Income Statement**: Detailed breakdown of revenue, expenses, and profitability
- ![Document Upload Placeholder](/assets/income.png)
- ![Document Upload Placeholder](/assets/income-2.png)
-- **Balance Sheet**: Comprehensive view of assets, liabilities, and equity
-  ![Document Upload Placeholder](/assets/balance.png)
-  ![Document Upload Placeholder](/assets/balance2.png)
-- **Cash Flow Statement**: Insights into cash movements and financial liquidity
- ![Document Upload Placeholder](/assets/cash.png)
- ![Document Upload Placeholder](/assets/cash2.png)
+We break down three key financial statements into plain language:
+- **Income Statement**: 
+  - Explained like a personal monthly budget
+  - Shows how a company makes and spends money
+  - Translated into everyday language
+ ![Income Statement 1](/assets/income.png)
+ ![Income Statement 2](/assets/income-2.png)
 
-### 2. Visual Analytics
+- **Balance Sheet**: 
+  - Think of it as a company's financial snapshot
+  - Explains what the company owns and owes
+  - Presented in simple, relatable terms
+  ![Balance Sheet 1](/assets/balance.png)
+  ![Balance Sheet 2](/assets/balance2.png)
 
-![Visual Analytics Dashboard](/assets/line-graph.png)
-![Visual Analytics Dashboard](/assets/linegraph-2.png)
-![Visual Analytics Dashboard](/assets/piechart.png)
+- **Cash Flow Statement**: 
+  - Demonstrates how money moves in and out of a company
+  - Explained like tracking your personal bank account
+ ![Cash Flow 1](/assets/cash.png)
+ ![Cash Flow 2](/assets/cash2.png)
 
-Powerful visualization tools to understand financial performance:
-- Interactive graphs and charts showing company growth trends
-- Comprehensive data overview
-- Key performance trend identification
-- AI-powered recommendations
+### 2. Visual Analytics for Easy Understanding
+![Line Graph 1](/assets/line-graph.png)
+![Line Graph 2](/assets/linegraph-2.png)
+![Pie Chart](/assets/piechart.png)
 
-#### Integrated Chatbot
+We transform numbers into easy-to-understand visuals:
+- Colorful graphs that tell a story
+- Simple charts that show financial growth
+- Visual representations that anyone can interpret
+- Recommendations in plain English
 
-- Interactive AI assistant
-- Real-time financial data interpretation
-- Personalized insights and explanations
+#### Friendly AI Chatbot
+- Ask questions in your own words
+- Get instant, jargon-free explanations
+- Your personal financial guide
 
 ### 3. Financial Learning Center
 ![Learning Center](/assets/learning.png)
 
-Educational resources to enhance financial literacy:
-- Complex financial concepts explained in simple language
-- Comprehensive glossary of financial terms
-- Easy-to-understand tutorials and guides
+Your go-to resource for financial education:
+- Complex concepts explained simply
+- No technical jargon
+- Learn at your own pace
+- Build financial confidence
 
-## Getting Started
+## Who Is This For?
+- Students learning about finance
+- New investors
+- Professionals without financial backgrounds
+- Anyone curious about understanding company finances
 
-### Prerequisites
-- JavaScript environment
-- Node.js
-- Python (for FastAPI)
-
-
-## Technology Stack
+## Technology Behind the Simplicity
 - **Frontend**: JavaScript
 - **Backend**: 
   - Node.js
@@ -63,13 +78,14 @@ Educational resources to enhance financial literacy:
   - Gemini Model
   - Cache Augmented Generation
 
-## Contact
-- Team:
-   - Leela Prasad G
-   - Durga Rama Krishna K
-   - Ganesh D
-   - Renu Sri
-   - Vennela V
-   - Vaishnavi R
-   - Rakesh T
-- Email: Rakeshtirlangi21@gmail.com
+## Meet the Team
+A group of passionate technologists and finance enthusiasts committed to making financial understanding accessible:
+- Leela Prasad G
+- Durga Rama Krishna K
+- Ganesh D
+- Renu Sri
+- Vennela V
+- Vaishnavi R
+- Rakesh T
+
+**Contact**: Rakeshtirlangi21@gmail.com
